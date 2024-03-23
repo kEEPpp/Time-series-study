@@ -12,6 +12,10 @@ def function_main3():
 
 def develop_code1():
     print('author1 add function1 in dev branch')
+    print('author2 modify function in dev sub branch')
 
 def develop_code2():
     print('author1 add function1 in dev branch')
+
+def author2_add():
+    print('author2 add function in dev sub branch')
