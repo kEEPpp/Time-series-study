@@ -16,3 +16,9 @@ def develop_code1():
 
 def develop_code2():
     print('author1 add function1 in dev branch')
+
+def author2_add1():
+    print('author2 add function in dev sub branch')
+
+def author2_add2():
+    print('lat')
